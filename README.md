@@ -16,7 +16,6 @@ The following are some of my more current Open Source Repositories.
 
 Explanation of all of my public GitHub Repositories can be found at [Repository](https://github.com/magesteve/Repositories)  
 
-
 ### Publications
 
 ### On the Internaet
@@ -24,3 +23,4 @@ Explanation of all of my public GitHub Repositories can be found at [Repository]
 * [Faceebook](https://www.facebook.com/steve.sheets/)
 * [Twitter, X](https://x.com/stevesheets/)
 
+ 
