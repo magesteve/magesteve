@@ -3,15 +3,17 @@ xxx
 
 #### GitHub Repositories
 
-Explanation of my various public GitHub Repositories can be found at [Repository](https://github.com/magesteve/Repositories)  The following are some of my Open Source Repoistories.
+The following are some of my more current Open Source Repositories.
 
-**APGIntentKit:** A lightweight Swift package for standardizing UI commands (menu items, toolbar items, buttons) around a simple Intent model. [Repository](https://github.com/magesteve/APGIntentKit)
+- **APGIntentKit:** A lightweight Swift package for standardizing UI commands (menu items, toolbar items, buttons) around a simple Intent model. [Repository](https://github.com/magesteve/APGIntentKit)
 
-**APGWorkKit:** A SwiftUI package for creating professional MacOS applications in the style of AppleWorks. [Repository](https://github.com/magesteve/APGWorkKit)
+- **APGWorkKit:** A SwiftUI package for creating professional MacOS applications in the style of AppleWorks. [Repository](https://github.com/magesteve/APGWorkKit)
 
-**APGCantripKit:** A lightweight Swift library of properties, typealiases, and common functions that are useful across Apple platform development. [Repository](https://github.com/magesteve/APGCantripKit)
+- **APGCantripKit:** A lightweight Swift library of properties, typealiases, and common functions that are useful across Apple platform development. [Repository](https://github.com/magesteve/APGCantripKit)
 
-**APGExample** Source examples for the various APG Kits (ex: APGIntentKit, APGWorkKit).[Repository](https://github.com/magesteve/APGExample)
+- **APGExample** Source examples for the various APG Kits (ex: APGIntentKit, APGWorkKit).[Repository](https://github.com/magesteve/APGExample)
+
+Explanation of all of my public GitHub Repositories can be found at [Repository](https://github.com/magesteve/Repositories)  
 
 
 ### Publications
