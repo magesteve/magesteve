@@ -3,7 +3,7 @@ xxx
 
 #### GitHub Repositories
 
-The following are some of my Open Source Repoistories.  Explanation of my various public GitHub Repositories can be found at [Repository](https://github.com/magesteve/Repositories)
+Explanation of my various public GitHub Repositories can be found at [Repository](https://github.com/magesteve/Repositories)  The following are some of my Open Source Repoistories.
 
 **APGIntentKit:** A lightweight Swift package for standardizing UI commands (menu items, toolbar items, buttons) around a simple Intent model. [Repository](https://github.com/magesteve/APGIntentKit)
 
