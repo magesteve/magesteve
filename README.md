@@ -12,7 +12,7 @@ The following are some of my more current Open Source Repositories.
 
 - **APGCantripKit:** A lightweight Swift library of properties, typealiases, and common functions that are useful across Apple platform development. [Repository](https://github.com/magesteve/APGCantripKit)
 
-- **APGExample** Source examples for the various APG Kits (ex: APGIntentKit, APGWorkKit).[Repository](https://github.com/magesteve/APGExample)
+- **APGExample** Source examples for the various APG Kits (ex: APGIntentKit, APGWorkKit). [Repository](https://github.com/magesteve/APGExample)
 
 Explanation of all of my public GitHub Repositories can be found at [Repository](https://github.com/magesteve/Repositories)  
 
