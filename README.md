@@ -16,11 +16,11 @@ The following are some of my more current Open Source Repositories.
 
 Explanation of all of my public GitHub Repositories can be found at [Repository](https://github.com/magesteve/Repositories)  
 
-### Publications
+#### Publications
 
 Over the years, I have written for or presented at numerious magazine, online services, developer conference and user groupds.  These have included contributing editor at MacTech magazine, Head of VR Track at MagFest conference, developer instructor at Learning Tree, presenter at ModevEast, author on Medium.  Links to some of my work can be found at [Repository](https://github.com/magesteve/publications)  
 
-### On the Internaet
+#### On the Internaet
 * [LinkedIn](https://www.linkedin.com/in/stevesheets/)
 * [Faceebook](https://www.facebook.com/steve.sheets/)
 * [Twitter, X](https://x.com/stevesheets/)
