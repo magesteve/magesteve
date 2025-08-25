@@ -1,5 +1,6 @@
 ### Steve Sheets
-xxx
+
+Steve is a long-time developer of Apple hardware who hopes to apply this knowledge in developing for the Metaverse. Born and raised in Silicon Valley, he has lived in Northern Virginia for many years with his wife, two adult daughters, and a number of cats. Beyond his love of programming, Steve is an active historical swordsman, teaches laser crafts at a local makers group, attends various cosplay conventions, and enjoys almost any type of non-computer game—including board games, card games, and RPGs. Oh, and he also reads and writes a lot.
 
 #### GitHub Repositories
 
@@ -21,5 +22,5 @@ Explanation of all of my public GitHub Repositories can be found at [Repository]
 ### On the Internaet
 * [LinkedIn](https://www.linkedin.com/in/stevesheets/)
 * [Faceebook](https://www.facebook.com/steve.sheets/)
-* [Twitter/X](https://x.com/stevesheets/)
+* [Twitter, X](https://x.com/stevesheets/)
 
