@@ -24,5 +24,3 @@ Over the years, I have written for or presented at numerious magazine, online se
 * [LinkedIn](https://www.linkedin.com/in/stevesheets/)
 * [Faceebook](https://www.facebook.com/steve.sheets/)
 * [Twitter, X](https://x.com/stevesheets/)
-
- 
